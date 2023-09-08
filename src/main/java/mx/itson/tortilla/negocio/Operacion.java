@@ -22,6 +22,7 @@ public class Operacion {
     
     
     public String[] separar(String oracion){
+        //Hola xddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
         String[] resultado = oracion.split("-");
         return resultado;
                 }
